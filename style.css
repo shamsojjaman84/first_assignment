@@ -1,0 +1,104 @@
+body {
+  font-family: "Luxurious Roman", cursive;
+}
+h1 {
+  font-size: 50px;
+}
+.border-apply {
+  border-left: 5px solid;
+  border-color: tomato;
+  border-radius: 5px;
+}
+.padding-stay {
+  padding-left: 10px;
+}
+.span-color {
+  color: orange;
+}
+.header-section {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+  padding-left: 40px;
+}
+.half-width img {
+  width: 70%;
+  padding-left: 40px;
+}
+.half-width p {
+  width: 80%;
+}
+.stay {
+  padding-top: 70px;
+  padding-left: 150px;
+}
+.explore-link {
+  text-decoration: none;
+  background-color: tomato;
+  color: white;
+  font-weight: 500;
+  padding: 10px 30px;
+  border-radius: 5px;
+}
+.mission-one h1 {
+  text-align: center;
+}
+.father-div {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  margin: 0 auto;
+}
+.mission {
+  width: 300px;
+  background-color: thistle;
+  padding: 10px;
+  border-radius: 15px;
+}
+.vission {
+  width: 300px;
+  background-color: turquoise;
+  padding: 10px;
+  border-radius: 15px;
+}
+.goals {
+  width: 300px;
+  background-color: violet;
+  padding: 10px;
+  border-radius: 15px;
+}
+.image-common {
+  width: 150px;
+}
+.image-common img {
+  width: 100%;
+}
+.margin {
+  margin-bottom: 60px;
+}
+.background-img {
+  background-image: url(images/shapes/dream-bg.png);
+  background-repeat: no-repeat;
+  background-size: 50px;
+}
+.background-img-two {
+  background-image: url(images/shapes/shape-1.png);
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: 200px;
+}
+.width {
+  width: 90%;
+  margin: 0 auto;
+}
+footer {
+  text-align: center;
+  padding-top: 80px;
+  background-color: black;
+  color: white;
+  margin-top: 100px;
+}
+footer span {
+  color: red;
+}
